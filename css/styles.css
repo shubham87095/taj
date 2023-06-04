@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(127, 255, 212);  
+  
+  
+
+}
+.bg{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+    display: inline-block;
+    margin-left: 20px;
+    
+    border: 5px black solid;
+}
+h1{
+    font-family:cursive;
+    color:brown;
+}
+#intro{
+    display: inline-block;
+    position: absolute;
+    margin-top: 22px;
+}
+hr{
+    border-color: aqua;
+    border-style: dotted;
+    max-width:30%;
+    border-bottom: 0;
+    border-top-width: 10px;
+
+    
+}
+.history{
+    position: relative;
+    margin:100px 0px;
+}
+.specs{
+    position:relative;
+    margin:100px 0px;
+}
+.references{
+     position: relative;
+     bottom: 50px;
+     margin-left: 30px;
+     margin-top: 200px;
+     margin-bottom: 100px;
+     
+}
+#website{
+    font-size: 28px;
+    color: rgb(30, 99, 210);
+    text-decoration: none;
+}
+table{
+   position: relative;
+   top: 70px;
+   display: inline-block;
+   position: relative;
+    
+}
+.qck{
+    margin-top: 100px;
+    position: relative;
+    top:60px ;
+    color: rgb(42, 155, 165);
+    
+    
+}
+.maps{
+    color: rgb(42, 116, 165);
+    font-size:170%
+}
